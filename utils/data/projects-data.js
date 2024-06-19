@@ -46,6 +46,18 @@ export const projectsData = [
   },
   {
     id: 3,
+    name: "Giphy",
+    description: `• Developed Tars AI, a chatbot using OpenAI API for text-based content generation.
+      • Achieved a 95% accurate response rate using the text Davinci-003 model.
+      • Utilized VITE for a 2x faster development process and built the server using Express.js and Node.js.`,
+    tools: ["React", "Tailwind CSs", "Javascript", "React router"],
+    code: "",
+    role: "FrontEnd",
+    demo: "https://giphy-six-bice.vercel.app/",
+    image: realEstate,
+  },
+  {
+    id: 4,
     name: "Tars AI",
     description: `• Developed Tars AI, a chatbot using OpenAI API for text-based content generation.
       • Achieved a 95% accurate response rate using the text Davinci-003 model.
